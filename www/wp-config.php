@@ -73,8 +73,8 @@ $table_prefix  = 'wp_';
  * en_CA.mo to wp-content/languages and set WPLANG to 'en_CA' to enable Canadian
  * English language support.
  */
-define('WPLANG', 'en_CA');
-
+ define('WPLANG', 'en_CA');
+/* define('WPLANG', 'ar'); */
 /**
  * For developers: WordPress debugging mode.
  *
